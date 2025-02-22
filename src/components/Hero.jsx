@@ -1,8 +1,8 @@
 function Hero() {
   return (
     <>
-      <section id="home" className="bg-[#74c69d] h-[cala(100vh - 85px)]">
-        <div className="container m-auto px-4 flex justify-center items-center flex-wrap gap-16">
+      <section id="home" className="bg-[#74c69d] h-screen">
+        <div className="container m-auto px-4 h-full flex justify-center items-center flex-wrap gap-16">
           <div className="text-white">
             <span>Welcome</span>
             <h1 className="my-5 text-[25px] font-bold">

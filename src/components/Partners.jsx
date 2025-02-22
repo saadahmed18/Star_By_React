@@ -29,9 +29,9 @@ function Partners() {
               <img src="/images/spotify.webp" alt="Spotify" />
             </Link>
           </div>
-          <Link to="/" className="btn">
+          <button type="button" className="btn mx-auto mt-[30px]">
             Learn More
-          </Link>
+          </button>
         </div>
       </section>
     </>

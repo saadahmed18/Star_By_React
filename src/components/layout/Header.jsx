@@ -19,16 +19,16 @@ function Header() {
             </button>
             <ul className={`${isMenuOpen ? "absolute right-0 top-20 w-[250px] rounded-md bg-[#74c69d] p-3" : "hidden"} md:flex gap-5 items-center`}>
               <li>
-                <a href="#home">Home</a>
+                <Link to="/">Home</Link>
               </li>
               <li>
-                <a href="/">Portfolio</a>
+                <Link to="/">Portfolio</Link>
               </li>
               <li>
-                <a href="/">Services</a>
+                <Link to="/">Services</Link>
               </li>
               <li>
-                <a href="/">Contact</a>
+                <Link to="/">Contact</Link>
               </li>
             </ul>
           </nav>

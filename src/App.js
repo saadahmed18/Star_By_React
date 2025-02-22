@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Header from "./components/layout/Header";
 import Partners from "./components/Partners";
 import Communication from "./components/Communication";
+import Analyze from "./components/Analyze";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero/>
       <Partners />
       <Communication/>
+      <Analyze/>
     </>
   );
 }

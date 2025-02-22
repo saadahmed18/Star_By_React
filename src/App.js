@@ -4,6 +4,7 @@ import Header from "./components/layout/Header";
 import Partners from "./components/Partners";
 import Communication from "./components/Communication";
 import Analyze from "./components/Analyze";
+import Team from "./components/Team";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Partners />
       <Communication/>
       <Analyze/>
+      <Team/>
     </>
   );
 }

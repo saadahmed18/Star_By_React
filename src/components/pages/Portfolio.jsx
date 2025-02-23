@@ -14,28 +14,28 @@ function Portfolio() {
           </div>
           <div className="flex justify-center flex-wrap gap-5">
           <Link to="/">
-            <img src="/images/work-1.webp" alt="" />
+            <img src="/images/work-1.webp" alt="work-1" />
           </Link>
           <Link to="/">
-            <img src="/images/work-2.webp" alt="" />
+            <img src="/images/work-2.webp" alt="work-2" />
           </Link>
           <Link to="/">
-            <img src="/images/work-3.webp" alt="" />
+            <img src="/images/work-3.webp" alt="work-3" />
           </Link>
           <Link to="/">
-            <img src="/images/work-4.webp" alt="" />
+            <img src="/images/work-4.webp" alt="work-4" />
           </Link>
           <Link to="/">
-            <img src="/images/work-5.webp" alt="" />
+            <img src="/images/work-5.webp" alt="work-5" />
           </Link>
           <Link to="/">
-            <img src="/images/work-6.webp" alt="" />
+            <img src="/images/work-6.webp" alt="work-6" />
           </Link>
           <Link to="/">
-            <img src="/images/work-7.webp" alt="" />
+            <img src="/images/work-7.webp" alt="work-7" />
           </Link>
           <Link to="/">
-            <img src="/images/work-8.webp" alt="" />
+            <img src="/images/work-8.webp" alt="work-8" />
           </Link>
           </div>
           <button type="button" className="btn mx-auto mt-[30px]">

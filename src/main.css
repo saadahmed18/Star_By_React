@@ -12,7 +12,6 @@ section {
 }
 .btn {
   display: block;
-  width: fit-content;
   padding: 12px 30px;
   font-size: 20px;
   color: white;
